@@ -31,8 +31,8 @@ A responsive web application built to **locate, request, and manage blood donati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/blood-bank-locator.git
-   cd blood-bank-locator
+   git clone https://github.com/anjali-yadav17/Blood-Bank-Locator-Dispatcher.git
+   cd Blood-Bank-Locator-Dispatcher
    ```
 
 2. **Open in Browser**
@@ -80,4 +80,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👩‍💻 Developed By
 
 **Anjali Yadav**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-yadavlpu2027/)

@@ -1,5 +1,5 @@
 {
-  "name": "blood-bank-locator",
+  "name": "blood-bank-locator-and-dispatcher",
   "version": "1.0.0",
   "description": "Blood Bank Locator with Admin Dashboard",
   "main": "server.js",

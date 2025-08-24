@@ -18,7 +18,7 @@ A responsive web application built to **locate, request, and manage blood donati
 
 ---
 
-## 🛠️ Technologies used
+## 🛠️ Technologies Used
 
 - **HTML5, CSS3, Bootstrap 4**
 - **JavaScript (Vanilla)**

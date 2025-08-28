@@ -272,7 +272,7 @@ const fallbackData = [
     lng: 80.2800
   },
 
-  // ────── UttarPradesh ──────
+  // ────── Uttar Pradesh ──────
   {
     name: "Shekhar Blood Bank & Component Centre",
     district: "Lucknow",

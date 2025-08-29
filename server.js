@@ -79,7 +79,7 @@ app.post('/api/admin/login', async (req, res) => {
   }
 });
 
-// Donor Routes
+// DonorRoutes
 app.post('/api/donors', async (req, res) => {
   try {
     const donor = new Donor(req.body);

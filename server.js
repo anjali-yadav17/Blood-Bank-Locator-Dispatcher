@@ -62,7 +62,7 @@ const authenticateAdmin = (req, res, next) => {
   }
 };
 
-// Admin Login Route
+// Admin Login Rout
 app.post('/api/admin/login', async (req, res) => {
   const { username, password } = req.body;
 

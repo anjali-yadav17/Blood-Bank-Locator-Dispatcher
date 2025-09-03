@@ -225,7 +225,7 @@ const fallbackData = [
     lat: 22.5800,
     lng: 88.3600
   },
-  // ────── TamilNadu ──────
+  // ────── Tamil Nadu ──────
   {
     name: "Government Stanley Medical College Blood Bank",
     district: "Chennai",

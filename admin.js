@@ -1,4 +1,4 @@
-// Handle admin login
+//Handle admin login
 document.getElementById('adminLoginForm').addEventListener('submit', async (e) => {
     e.preventDefault();
     const username = document.getElementById('username').value;

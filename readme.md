@@ -35,7 +35,7 @@ A responsive web application built to **locate, request, and manage blood donati
    cd Blood-Bank-Locator-Dispatcher
    ```
 
-2. **Open In Browser**
+2. **Open in Browser**
    - Open `index.html` in any modern web browser.
 
 3. *(Optional)* Configure your backend API endpoints in the JavaScript files.

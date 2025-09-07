@@ -65,7 +65,7 @@ async function fetchDonors() {
     }
 }
 
-// Update request statu
+// Update request status
 async function updateRequestStatus(requestId, status) {
     try {
         const response = await fetch(`/api/requests/${requestId}`, {

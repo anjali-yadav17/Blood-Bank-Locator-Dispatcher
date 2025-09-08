@@ -25,16 +25,6 @@ A responsive web application built to **locate, request, and manage blood donati
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here of:
-> - Home page
-> - Locator in action
-> - Admin dashboard
-> - Request form
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5, CSS3, Bootstrap 4**
@@ -56,23 +46,6 @@ A responsive web application built to **locate, request, and manage blood donati
    - Open `index.html` in any modern web browser.
 
 3. *(Optional)* Configure your backend API endpoints in the JavaScript files.
-
----
-
-## 📂 Folder Structure
-
-```
-📁 Blood Bank Locator/
-├── index.html
-├── admin_login.html
-├── admin_dashboard.html
-├── donate_request.html
-├── admin.js
-├── admin_dashboard.js
-├── donate_request.js
-├── script.js (assumed map logic)
-├── style.css
-```
 
 ---
 
@@ -105,13 +78,15 @@ Actual blood bank data and API integrations must be handled with proper authoriz
 
 ---
 
-## 👩‍💻 Developed By
-
-**Anjali Yadav**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-yadav/)
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👩‍💻 Developed By
+
+**Anjali Yadav**  
+
+---
+

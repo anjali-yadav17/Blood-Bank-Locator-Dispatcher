@@ -8,7 +8,7 @@ A responsive web application built to **locate, request, and manage blood donati
 
 ## 🔗 Live Demo
 
-blood-bank-locator-dispatcher.vercel.app
+[Blood Bank Locator & Dispatcher](https://blood-bank-locator-dispatcher.vercel.app)
 
 ---
 

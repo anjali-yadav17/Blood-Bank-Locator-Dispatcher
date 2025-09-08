@@ -2,14 +2,13 @@
 
 A responsive web application built to **locate, request, and manage blood donations** in real-time. It features a **map-based locator**, **request and donation form**, and a **secure admin dashboard** to manage donors and emergency blood requests.
 
-> “Find Blood. Save Lives.” — Your one-stop solution for blood emergencies.  
+“Find Blood. Save Lives.” — Your one-stop solution for blood emergencies.  
 
 ---
 
 ## 🔗 Live Demo
 
-**[Visit Application →](https://your-deployment-link.vercel.app)**  
-*(Update with your actual deployed URL)*
+blood-bank-locator-dispatcher.vercel.app
 
 ---
 
@@ -87,6 +86,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👩‍💻 Developed By
 
 **Anjali Yadav**  
-
----
 

@@ -109,6 +109,6 @@ document.getElementById('addDonorForm').addEventListener('submit', async (e) => 
     }
 });
 
-// Initial Load
+// Initial load
 fetchRequests();
 fetchDonors();

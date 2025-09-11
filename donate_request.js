@@ -44,10 +44,10 @@ document.getElementById('requestForm').addEventListener('submit', async (e) => {
             alert('Your blood request has been submitted successfully!');
             e.target.reset();
         } else {
-            alert('Request submission failed. Please try again.');
+            alert('Request submission failed, Please try again.');
         }
     } catch (error) {
         console.error('Error submitting request:', error);
-        alert('Request submission failed. Please try again.');
+        alert('Request submission failed, Please try again.');
     }
 });

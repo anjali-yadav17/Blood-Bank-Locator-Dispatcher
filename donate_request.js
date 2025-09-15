@@ -25,7 +25,7 @@ document.getElementById('donorForm').addEventListener('submit', async (e) => {
     }
 });
 
-// Handle blood request
+// Handle blood requests
 document.getElementById('requestForm').addEventListener('submit', async (e) => {
     e.preventDefault();
     const formData = new FormData(e.target);

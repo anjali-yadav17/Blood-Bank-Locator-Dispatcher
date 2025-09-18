@@ -10,7 +10,7 @@ document.getElementById('logoutBtn').addEventListener('click', () => {
     window.location.href = 'admin_login.html';
 });
 
-// Fetch and display blood requests
+// Fetch and display blood request
 async function fetchRequests() {
     try {
         const response = await fetch('/api/requests', {
